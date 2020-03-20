@@ -82,6 +82,11 @@ h2 {
     font-weight: 900;
     margin-bottom: 20px;
 }
+
+.single-photo-item {
+    margin-bottom: 40px;
+}
+
 .image-wrapper {
     height: 190px;
     margin-bottom: 15px;
